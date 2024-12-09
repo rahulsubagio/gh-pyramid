@@ -1,1 +1,1 @@
-# gh-piramide
+# gh-pyramid
